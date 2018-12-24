@@ -4,7 +4,7 @@ class ListNode(var `val`: Int = 0) {
     var next: ListNode? = null
 }
 
-class Solution {
+/*class Solution {
 
     fun addTwoNumbers(l1: ListNode?, l2: ListNode?): ListNode? {
         var l3 : ListNode
@@ -20,4 +20,4 @@ class Solution {
     fun sum(first :Int = 0, second :Int = 0): Int {
         return first + second
     }
-}
+}*/
